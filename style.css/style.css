@@ -71,6 +71,10 @@ input:hover {
     border-color: aqua;
     box-shadow: 6px rebeccapurple;
 }
+textarea{
+    border-color: aqua;
+    box-shadow: 6px rebeccapurple;
+}
 button:hover {
     box-shadow: 6px blue;
     border-color: aqua;
